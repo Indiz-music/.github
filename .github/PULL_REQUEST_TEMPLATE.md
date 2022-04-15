@@ -13,7 +13,7 @@
 작업 하게 된 이유를 간략히 작성해주세요.
 
         
-## Screenshot.(optional)
+## Screenshot.
 내용이 없다면 삭제해주세요.
 
 
@@ -23,6 +23,6 @@
 - [ ] 테스트 케이스3
 
 
-## Need Discuss.(optional)
+## Need Discuss.
 리뷰어와 함께 토의해보고 싶은 내용이 있다면 작성해주세요.
 내용이 없다면 삭제해주세요.
